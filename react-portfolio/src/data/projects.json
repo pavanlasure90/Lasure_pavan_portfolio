@@ -1,0 +1,60 @@
+[
+    {
+      "title": "CinemaElk",
+      "imageSrc": "projects/CinemaElkImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://cinema-elk-dynamic.netlify.app"
+    },
+    {
+      "title": "InstaBuy",
+      "imageSrc": "projects/instaBuyImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://instabuydynamic.netlify.app"
+    },
+    {
+      "title": "TicketBox",
+      "imageSrc": "projects/ticketbox.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://ticketboxdynamic.netlify.app"
+    },
+    {
+      "title": "TextUtils",
+      "imageSrc": "projects/TextutilsImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://textutils-dynamic.netlify.app"
+    },
+    {
+      "title": "InstagramPage",
+      "imageSrc": "projects/instagramImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://instagramproject-static.netlify.app"
+    },
+    {
+      "title": "Home Shop",
+      "imageSrc": "projects/homeshopImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://homeshopproject.netlify.app"
+    },
+    {
+      "title": "MedStart",
+      "imageSrc": "projects/medstartImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://homeshopproject.netlify.app"
+    },
+    {
+      "title": "Noteland",
+      "imageSrc": "projects/notelandImg.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://notelandproject.netlify.app"
+    }
+    
+    
+  ]
