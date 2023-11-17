@@ -46,6 +46,13 @@
   height: 120px;
 }
 
+.skillImageContainer:hover,
+.skillImageContainer:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+  box-shadow: 0 8px 14px 0 rgb(12, 12, 11);
+}
+
 .skillImageContainer img {
   width: 75px;
 }
