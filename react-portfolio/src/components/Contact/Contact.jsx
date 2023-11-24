@@ -1,39 +1,3 @@
-// import React from "react";
-
-// import styles from "./Contact.module.css";
-// import { getImageUrl } from "../../utils";
-
-// export const Contact = () => {
-//   return (
-//     <footer id="contact" className={styles.container}>
-//       <div className={styles.text}>
-//         <h2>Contact</h2>
-//         <p>Feel free to reach out!</p>
-//       </div>
-//       <ul className={styles.links}>
-//         <li className={styles.link}>
-//           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-//           <a href="mailto:pavanlasure90@email.com">Pavanlasure90@email.com</a>
-//         </li>
-//         <li className={styles.link}>
-//           <img
-//             src={getImageUrl("contact/linkedinIcon.png")}
-//             alt="LinkedIn icon"
-//           />
-//           <a href="https://www.linkedin.com/in/lasure-pavan-500276226/">linkedin.com/Lasurepavan</a>
-//         </li>
-//         <li className={styles.link}>
-//           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-//           <a href="https://github.com/pavanlasure90">github.com/LasurePavan</a>
-//         </li>
-//       </ul>
-//     </footer>
-//   );
-// };
-
-
-
-
 import React from "react";
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
@@ -48,13 +12,13 @@ export const Contact = () => {
     </div>
     <ul className={styles.links}>
       <li className={styles.link}>
-        <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+        <img style={{height:"1.8rem"}} src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
         <a href="mailto:pavanlasure90@email.com">
           Pavanlasure90@email.com
         </a>
       </li>
       <li className={styles.link}>
-        <img
+        <img style={{height:"1.8rem" , marginRight:"5px"}}
           src={getImageUrl("contact/linkedinIcon.png")}
           alt="LinkedIn icon"
         />
@@ -62,8 +26,8 @@ export const Contact = () => {
           linkedin.com/Lasurepavan
         </a>
       </li>
-      <li className={styles.link}>
-        <img
+      <li style={{marginRight:"1.2rem"}} className={styles.link}>
+        <img style={{height:"1.8rem", marginRight:"1px"}}
           src={getImageUrl("contact/githubIcon.png")}
           alt="Github icon"
         />

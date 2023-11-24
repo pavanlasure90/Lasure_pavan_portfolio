@@ -20,9 +20,10 @@
 }
 
 .title {
-  font-size: 72px;
+  font-size: 62px;
   font-weight: 900;
   margin-bottom: 33px;
+  text-align: center;
   font-family: var(--font-roboto);
   background: linear-gradient(
     90deg,
@@ -34,7 +35,7 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 25px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
@@ -51,7 +52,7 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 40%;
   z-index: 1;
   animation-name: floating;
   animation-duration: 3s;
