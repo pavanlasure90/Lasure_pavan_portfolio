@@ -14,7 +14,7 @@ export const Hero = () => {
           HTML , CSS, JavaScript , React, Node.js, Express, MongoDB
           and API integration, Skilled in dynamic web applications.
         </p>
-        <a className={styles.contactBtn} href="react-portfolio/resume/Lasure Pavan -Full Stack Developer Resume.pdf" download>Download Resume</a>
+        <a className={styles.contactBtn} href="https://drive.google.com/file/d/1IZheqhYt3xsHOmwLtNmKCs-V9u28p2V3/view?usp=sharing" download>Download Resume</a>
       </div>
       <img
         src={getImageUrl("hero/my picture.jpg")}
